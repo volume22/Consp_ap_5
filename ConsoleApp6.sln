@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{B1986C83-3866-475B-972A-40C213495A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{BFDE0D5E-70D5-4778-B9DE-EB7585A1EB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{6746705F-9FE6-40B6-9DD3-001A6577BE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1986C83-3866-475B-972A-40C213495A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1986C83-3866-475B-972A-40C213495A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1986C83-3866-475B-972A-40C213495A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1986C83-3866-475B-972A-40C213495A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDE0D5E-70D5-4778-B9DE-EB7585A1EB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDE0D5E-70D5-4778-B9DE-EB7585A1EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDE0D5E-70D5-4778-B9DE-EB7585A1EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDE0D5E-70D5-4778-B9DE-EB7585A1EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6746705F-9FE6-40B6-9DD3-001A6577BE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6746705F-9FE6-40B6-9DD3-001A6577BE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6746705F-9FE6-40B6-9DD3-001A6577BE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6746705F-9FE6-40B6-9DD3-001A6577BE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A012E04-0C89-4E63-889E-343CF0FAEEC5}
+	EndGlobalSection
+EndGlobal
